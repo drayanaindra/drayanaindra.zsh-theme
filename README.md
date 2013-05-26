@@ -8,4 +8,6 @@ and modify ZSH_THEME to ZSH_THEME="drayanaindra" in file .zshrc
 
 color for background : #052E3A
 
+fiture this theme is you can see ruby version and get status gemset. this fiture same with gallois
+
 for screenshoot visit this <a href="http://drayanaindra.blogspot.com" target="blank">drayanaindra Blog</a>
