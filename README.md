@@ -10,4 +10,4 @@ color for background : #052E3A
 
 fiture this theme is you can see ruby version and get status gemset. this fiture same with gallois
 
-for screenshoot visit this <a href="http://drayanaindra.blogspot.com" target="blank">drayanaindra Blog</a>
+for screenshoot visit this <a href="http://drayanaindra.blogspot.com/2013/05/theme-drayanaindra-oh-my-zsh.html" target="blank">Blog</a>
